@@ -9,10 +9,10 @@
 ## Pipeline
 The proposed method's pipeline comprises four key components: lane marking detection, drivable area detection, vehicle localization, and updates to the OSM database.
 
-![figure1](https://hackmd.io/_uploads/r1kfUCPEye.png)
+![figure1](figure1.png)
 
 ## Results in different IoU
-![Screenshot from 2024-12-13 11-10-07](https://hackmd.io/_uploads/HkleYQKVyg.png)
+![Screenshot from 2024-12-13 11-10-07](Screenshot from 2024-12-13 11-10-07.png)
 
 
 ## Getting Started
