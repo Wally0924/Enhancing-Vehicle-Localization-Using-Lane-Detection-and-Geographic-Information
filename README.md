@@ -12,7 +12,7 @@ The proposed method's pipeline comprises four key components: lane marking detec
 ![figure1](figure1.png)
 
 ## Results in different IoU
-![Screenshot from 2024-12-13 11-10-07](Screenshot from 2024-12-13 11-10-07.png)
+![Screenshot from 2024-12-13 11-10-07](figure2.png)
 
 
 ## Getting Started
