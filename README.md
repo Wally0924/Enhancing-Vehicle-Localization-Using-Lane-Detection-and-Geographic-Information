@@ -164,8 +164,8 @@ python evaluate_result/caculate_gt.py
 ```
 
 ## Acknowledgements
-Drivable area detection -> YolactEDGE\n
-github: https://github.com/haotian-liu/yolact_edge\n
+Drivable area detection -> YolactEDGE
+github: https://github.com/haotian-liu/yolact_edge
 paper: https://arxiv.org/abs/2012.12259
 
 Lane detection -> CLRNet
