@@ -62,7 +62,7 @@ To log in and access the resources, use the following credentials:
 #### Instructions
 1. Open the website using the link above.
 2. Log in with the provided username and password.
-3. After logging in, click on "File Station," then select the "web" folder. Next, go to the "download" folder to download the "Dataset.zip".
+3. After logging in, click on "File Station," then select the "web" folder. Next, go to the "download" folder to download the "JunYi-Dataset.zip".
 
 ## File structure
  - Your folder should be organized like this:
