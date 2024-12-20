@@ -52,8 +52,17 @@ Install CLRNet dependence
 cd ../CLRNet 
 python setup.py build develop
 ```
-### Testing data
-Download weights and test data from [here](https://drive.google.com/drive/folders/1TMY9emnEqHV85pAv6ALrabRSt_AUsX6y?usp=sharing).
+### For Our Dataset
+You can download the dataset, weights, and test data from [Our Website](https://godel.ee.ccu.edu.tw:5001/).
+
+#### Accessing the Website
+To log in and access the resources, use the following credentials:
+- Username: webadm
+- Password: rob122vis
+#### Instructions
+1. Open the website using the link above.
+2. Log in with the provided username and password.
+3. After logging in, click on "File Station," then select the "web" folder. Next, go to the "download" folder to download the "Dataset.zip".
 
 ## File structure
  - Your folder should be organized like this:
