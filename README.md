@@ -191,20 +191,5 @@ paper: https://www.ismll.uni-hildesheim.de/lehre/semSpatial-10s/script/6.pdf
 
 We thank these authors for their work.
 
-%%
-## Citation
-If you find this code helpful for your research, please cite our paper [Improving Vehicle Localization with Lane Marking Detection Based on Visual Perception and Geographic Information](https://ieeexplore.ieee.org/document/10228058).
 
-```
-@INPROCEEDINGS{10228058,
-  author={Li, Jun-Yi and Lin, Huei-Yung},
-  booktitle={2023 IEEE 32nd International Symposium on Industrial Electronics (ISIE)}, 
-  title={Improving Vehicle Localization with Lane Marking Detection Based on Visual Perception and Geographic Information}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-6},
-  keywords={Location awareness;Performance evaluation;Industrial electronics;Global navigation satellite system;Databases;Lane detection;Image processing},
-  doi={10.1109/ISIE51358.2023.10228058}}
-```
-%%
+
